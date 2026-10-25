@@ -13,7 +13,7 @@ from functions import make_text_salty
 ```
 
 ```python
-from functions import make_text_salty
+from functions import get_chords
 ```
 ### Examples:
 
